@@ -34,3 +34,4 @@ var/
 gotools/
 eln-cache/
 anaconda-mode
+org-persist/
