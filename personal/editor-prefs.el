@@ -33,5 +33,11 @@
 ;;; A key binding for the unfill-paragraph function.
 (define-key global-map "\M-Q" 'unfill-paragraph)
 
+;;; Include a mode for editing Justfiles.
+(require 'prelude-programming)
+(prelude-require-packages '(just-ts-mode))
+(require 'just-ts-mode)
+(just-ts-mode-install-grammar)
+
 (provide 'editor-prefs)
 ;;; editor-prefs.el ends here
