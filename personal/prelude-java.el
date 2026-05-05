@@ -8,7 +8,7 @@
 
 ;;; Code:
 
-  ;;; prelude-java.el --- Java programming configuration.
+;;; prelude-java.el --- Java programming configuration.
 (require 'prelude-programming)
 
 ;; Use java-ts-mode when the tree-sitter grammar is available
