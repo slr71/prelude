@@ -10,7 +10,7 @@
 
 (with-eval-after-load 'eglot
   (add-to-list 'eglot-server-programs
-               '((python-ts-mode python-mode) . ("uv" "run" "--with" "python-lsp-server[all]" "pylsp"))))
+               '((python-ts-mode python-mode) . ("uv" "run" "--dev" "pylsp"))))
 
 (provide 'python-prefs)
 ;;; python-prefs.el ends here
