@@ -1,3 +1,5 @@
+;;; -*- lexical-binding: nil -*-
+;;;
 ;;; clojure-prefs.el --- my Clojure preferences.
 ;;;
 ;;; Commentary:

@@ -1,3 +1,5 @@
+;;; -*- lexical-binding: nil -*-
+;;;
 ;;; utils.el --- utility functions
 ;;;
 ;;; Commentary:
