@@ -1,3 +1,5 @@
+;;; -*- lexical-binding: nil -*-
+;;;
 ;;; framesize.el --- sets the default size of frame.
 ;;;
 ;;; Commentary:

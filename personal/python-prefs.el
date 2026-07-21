@@ -1,3 +1,5 @@
+;;; -*- lexical-binding: nil -*-
+;;;
 ;;; python-prefs.el --- my Python preferences.
 ;;;
 ;;; Commentary:

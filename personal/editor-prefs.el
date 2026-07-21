@@ -1,3 +1,5 @@
+;;; -*- lexical-binding: nil -*-
+;;;
 ;;; editor-prefs.el --- my editor preferences.
 ;;;
 ;;; Commentary:

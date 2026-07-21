@@ -1,3 +1,5 @@
+;;; -*- lexical-binding: nil -*-
+;;;
 ;;; opts.el --- sets global options.
 ;;;
 ;;; Commentary:

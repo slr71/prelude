@@ -1,3 +1,5 @@
+;;; -*- lexical-binding: nil -*-
+;;;
 ;;; prelude-java.el --- Emacs Prelude: Java programming configuration.
 
 ;; This file is not part of GNU Emacs.
