@@ -1,5 +1,6 @@
 *~
 *.elc
+*.eld
 auto-save-list
 recentf
 savehist
@@ -16,7 +17,6 @@ places
 .smex-items
 savefile/
 transient/
-projectile-bookmarks.eld
 session*
 .cask
 tramp
